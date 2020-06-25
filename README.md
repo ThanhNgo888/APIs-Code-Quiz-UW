@@ -1,2 +1,2 @@
 # Quiz-App-with-HTML-CSS-JavaScript
-https://thanhngo888.github.io/Code-Quiz/
+Click the link to start Quiz App: https://thanhngo888.github.io/APIs-Code-Quiz-UW/
